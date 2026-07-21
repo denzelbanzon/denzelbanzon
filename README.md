@@ -16,7 +16,9 @@
 
 <h3 align="left">- 📫 How to reach me **denzbanzon@gmail.com**</h3>        
 
-<h3 align="left">- ⚡ Fun fact **I am a fast learner, likes K-Pop, likes to do planning and creating graphic design stuff**</h3>        
+<h3 align="left">- ⚡ Fun fact "I am a fast learner, 
+  likes K-Pop, likes to do planning and 
+  creating graphic design stuff"</h3>        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
